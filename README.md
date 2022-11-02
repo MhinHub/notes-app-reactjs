@@ -1,3 +1,4 @@
+![HitCount](https://hits.dwyl.com/Mhinhub/notes-app-reactjs.svg?style=flat&show=unique)
 
 ![Notes App](https://i.postimg.cc/L54KqmLf/android-chrome-192x192.png)
 
